@@ -1,0 +1,1 @@
+print("prj boot successful")
